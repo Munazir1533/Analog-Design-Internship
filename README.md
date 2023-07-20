@@ -4,10 +4,10 @@ This 6 Week summer internship, organized by the Engineering Design and Implement
 
 ## Task Descriptions
 
-### Task 0: Introduction to LTspice and Circuit Simulation Techniques
+### Task 0: Extraction of Charts/LUT used in gmid methodology
 
 *Objective:* 
-Learn LTspice software and circuit simulation techniques through lectures by Professor Baker available at cmosedu.com. Gain proficiency in LTspice for designing and simulating analog circuits.
+Extracted different chart for NMOS & PMOS Transistor. Such as gm/gds vs gm/id, Vgs vs gm/id, Id/w vs gm/id.
 
 ### Task 1: Design and Simulation of Common Source Amplifier (NMOS + PMOS Current Source)
 
